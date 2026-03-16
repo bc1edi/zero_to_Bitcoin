@@ -1,2 +1,2 @@
 ﻿# addr1-agent
-zero to Bitcoin - Principiabte
+zero to Bitcoin - Principiante
